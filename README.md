@@ -1,27 +1,158 @@
-# 💫 About Me:
-Highly motivated MERN stack developer with a passion for building scalable and efficient web applications.<br><br>1. I am currently working on:<br>Personal projects, including a full-stack blog platform using React, Node.js, Express, and MongoDB.<br><br>2. I'm looking to collaborate on:<br>Open-source projects related to web development, especially those involving MERN stack or AI/ML integrations.<br><br>3. I am currently learning:<br>TypeScript, GraphQL, and advanced MongoDB techniques to enhance my skill set.<br><br>4. Ask me about:<br>MERN stack development, web application architecture, or anything related to JavaScript and its ecosystem.<br><br>5. Fun fact:<br>I love solving coding challenges and participating in hackathons in my free time, and I'm also an avid reader of science fiction novels.
+# 💫 About Me
 
+Hi, I'm **Ashvin Upadhyay** 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashvin__upadhyay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashvin-upadhyay) 
+I'm a **Software Developer** with a strong background in **Backend Development (Node.js/MERN Stack)** and currently specializing in **SAP ABAP & SAP S/4HANA Development**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashvinupadhyay1132&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashvinupadhyay1132&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinupadhyay1132&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashvinupadhyay1132&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashvinupadhyay1132&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm passionate about building enterprise business applications, automating business processes, and developing scalable SAP solutions. My goal is to become a highly skilled **SAP ABAP Developer** capable of designing enterprise-grade applications for global organizations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashvinupadhyay1132&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Working On
+
+- SAP ABAP Development
+- SAP S/4HANA
+- ABAP OO
+- CDS Views
+- ALV Reports
+- SmartForms & Adobe Forms
+- BAPIs & RFCs
+- OData Services
+- SAP Fiori Integration
+- Enterprise SAP Projects
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SAP ABAP
+- SAP S/4HANA Architecture
+- RAP (RESTful ABAP Programming Model)
+- CDS Views
+- AMDP
+- SAP Gateway
+- SAP Fiori
+- Performance Optimization
+- Clean ABAP
+- Enterprise Design Patterns
+
+---
+
+## 💼 Enterprise Interests
+
+- SAP ABAP Development
+- SAP S/4HANA
+- Enterprise Resource Planning (ERP)
+- Business Process Automation
+- Workflow Automation
+- Custom SAP Development
+- Backend Development
+- REST APIs
+- Enterprise Integration
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- SAP ABAP Projects
+- SAP Open Source Tools
+- SAP Utilities
+- Enterprise Automation
+- Backend Development
+- MERN Stack Applications
+
+---
+
+## 💬 Ask Me About
+
+- SAP ABAP
+- SAP S/4HANA
+- ABAP OO
+- CDS Views
+- ALV Reports
+- SmartForms
+- Adobe Forms
+- Node.js
+- Express.js
+- React.js
+- MongoDB
+- REST APIs
+- SQL
+- Backend System Design
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving enterprise business problems through software development, continuously learning SAP technologies, and building scalable applications that improve business efficiency.
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvin-upadhyay)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashvin__upadhyay)
+
+---
+
+# 💻 Tech Stack
+
+## SAP Technologies
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge)
+![ABAP OO](https://img.shields.io/badge/ABAP%20OO-0FAAFF?style=for-the-badge)
+![CDS Views](https://img.shields.io/badge/CDS%20Views-0FAAFF?style=for-the-badge)
+![OData](https://img.shields.io/badge/OData-5C2D91?style=for-the-badge)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge)
+
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Database
+
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🎯 2026 Goals
+
+- Master SAP ABAP & SAP S/4HANA
+- Build enterprise-grade SAP applications
+- Learn SAP Fiori & RAP
+- Contribute to SAP community projects
+- Secure a Software Engineer (SAP ABAP) role in a leading MNC
